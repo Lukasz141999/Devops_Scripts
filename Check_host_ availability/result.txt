@@ -1,0 +1,5 @@
+test is not reachable
+8.8.8.8 is up!
+onet.pl is up!
+google.com is up!
+wp.pl is up!
